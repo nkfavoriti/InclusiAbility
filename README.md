@@ -140,7 +140,7 @@ Our project strives to provide an overview of what disabilities are and the dive
 
 
 # Phase Leader:
-- Phase 1: Brandon Ling
+- Phase 1: Nick Favoriti
 - Phase 2: Alexander Lee
 - Phase 3: Arul Tayal
 - Phase 4: Ishaan Salhotra
